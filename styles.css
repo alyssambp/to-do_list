@@ -1,6 +1,7 @@
 body {
     padding: 15px;
-    font-family: sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #e4f0f7;
 }
 
 
@@ -23,8 +24,8 @@ ul {
 }
 
 li {
-    color: #fff;
-    background-color: rgb(81, 128, 153);
+    color: #2d3e5f;
+    background-color: #fff;
     padding: 15px;
     margin-bottom: 15px;
     border-radius: 5px;
