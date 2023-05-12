@@ -1,0 +1,39 @@
+body {
+    padding: 15px;
+    font-family: sans-serif;
+}
+
+
+h1 {
+    padding: 10px;
+    font-size: 36px;
+    width: 250px;
+    color: #2d3e5f;
+}
+
+#todo-header {
+    font-size: 24px;  
+    color: #2d3e5f;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+    width: 250px;
+}
+
+li {
+    color: #fff;
+    background-color: rgb(81, 128, 153);
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+#clear {
+    color: #fff;
+    background-color: #ff844b;
+    width: 250px;
+    padding: 5px;
+    border-radius: 10px;
+}
