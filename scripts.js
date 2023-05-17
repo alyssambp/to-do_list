@@ -1,4 +1,4 @@
-var form = document.querySelector('form');
+    var form = document.querySelector('form');
     var todoList = document.querySelector('ul');
     var button = document.querySelector('button');
     var input = document.getElementById('user-todo');
